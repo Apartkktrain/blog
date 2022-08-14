@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Kw Site</title>
+        <link>https://apartkktrain.github.io/blog/</link>
+        <description>Recent content on Kw Site</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja-jp</language>
+        <lastBuildDate>Sun, 14 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://apartkktrain.github.io/blog/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About</title>
+        <link>https://apartkktrain.github.io/blog/page/about/</link>
+        <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://apartkktrain.github.io/blog/page/about/</guid>
+        <description>&lt;p&gt;技術に関して学ぶ過程で得られた知見などをアウトプットするサイトです。&lt;br&gt;
+近年GithubPagesを利用してサイトを構築する人のうちこのような静的サイトジェネレータを用いてブログのような形式で書いている人が多く、私も作ってみたいと感じました。&lt;/p&gt;
+&lt;h1 id=&#34;様々な技術に積極的にチャレンジ&#34;&gt;様々な技術に積極的にチャレンジ！&lt;/h1&gt;
+</description>
+        </item>
+        <item>
+        <title>Archives</title>
+        <link>https://apartkktrain.github.io/blog/page/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://apartkktrain.github.io/blog/page/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Links</title>
+        <link>https://apartkktrain.github.io/blog/page/links/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://apartkktrain.github.io/blog/page/links/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>https://apartkktrain.github.io/blog/page/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://apartkktrain.github.io/blog/page/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
