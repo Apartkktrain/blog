@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Hugo on Kw Site</title>
-        <link>https://apartkktrain.github.io/blog/categories/hugo/</link>
-        <description>Recent content in Hugo on Kw Site</description>
+        <title>Posts on Kw Site</title>
+        <link>https://apartkktrain.github.io/blog/post/</link>
+        <description>Recent content in Posts on Kw Site</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ja-jp</language>
-        <lastBuildDate>Sun, 14 Aug 2022 20:39:02 +0900</lastBuildDate><atom:link href="https://apartkktrain.github.io/blog/categories/hugo/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 14 Aug 2022 20:39:02 +0900</lastBuildDate><atom:link href="https://apartkktrain.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Hugo&#43;Githubpagesで静的サイトを構築する</title>
         <link>https://apartkktrain.github.io/blog/post/firsthugo/</link>
         <pubDate>Sun, 14 Aug 2022 20:39:02 +0900</pubDate>

@@ -1,7 +1,7 @@
 ---
 title: "Hugo+Githubpagesで静的サイトを構築する"
 date: 2022-08-14T20:39:02+09:00
-draft: true
+draft: false
 categories: Hugo
 ---
 
