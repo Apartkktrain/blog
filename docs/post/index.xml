@@ -6,7 +6,21 @@
         <description>Recent content in Posts on Kw Site</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ja-jp</language>
-        <lastBuildDate>Sun, 14 Aug 2022 20:39:02 +0900</lastBuildDate><atom:link href="https://apartkktrain.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 16 Aug 2022 13:49:30 +0900</lastBuildDate><atom:link href="https://apartkktrain.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>フリーで高機能かつ動作が軽量なモデリングソフト Xismo に関して</title>
+        <link>https://apartkktrain.github.io/blog/post/xismo/</link>
+        <pubDate>Tue, 16 Aug 2022 13:49:30 +0900</pubDate>
+        
+        <guid>https://apartkktrain.github.io/blog/post/xismo/</guid>
+        <description>&lt;p&gt;xismoという3Dモデリングソフトを見つけたので紹介する。&lt;br&gt;
+このソフトの最大の特徴として動作が大変軽量なことである。そしてモデリングに必要な基本機能が非常に使いやすいことである。&lt;br&gt;
+日本人が開発したこのソフトは日本製ということもありmetasequoiaに少し操作感が似ている。UIは全く異なるものであるが、ショートカットなどはmetasequoiaと一部同じであった。&lt;br&gt;
+モデリングソフトは各ソフトで操作に癖があり人によって好みが分かれるが、慣れてしまえばあまりそのような好みはなくなると考えている。&lt;br&gt;
+実際このソフトウェアをSurfacelaptop3 (メモリ16GB corei5 第10世代 CPU内蔵GPU)で動かしたが全く動作が重くなることはない。Blenderを扱うと途中でフリーズしたりするのでとても困っていた。このソフトウェアはスペックが限られている学校のPCなどでも十分に動作可能だと思う。非常に素晴らしいソフトウェアだと感じた。&lt;br&gt;
+またこのソフトウェアはmqo形式ファイルも出力できるのでmetasequoiaと連携して使用するとなお快適だと思われる。&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Hugo&#43;Githubpagesで静的サイトを構築する</title>
         <link>https://apartkktrain.github.io/blog/post/firsthugo/</link>
         <pubDate>Sun, 14 Aug 2022 20:39:02 +0900</pubDate>
